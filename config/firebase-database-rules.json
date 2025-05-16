@@ -1,0 +1,9 @@
+{
+  "rules": {
+    "ucapan": {
+      ".read": true,
+      ".write": true,
+      ".indexOn": ["timestamp"]
+    }
+  }
+}

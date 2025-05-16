@@ -1,0 +1,11 @@
+{
+    "require": {
+        "kreait/firebase-php": "^7.0"
+    },
+    "config": {
+        "platform": {
+            "php": "8.1",
+            "ext-sodium": "2.0"
+        }
+    }
+}
